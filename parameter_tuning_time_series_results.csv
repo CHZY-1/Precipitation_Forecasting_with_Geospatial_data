@@ -11,3 +11,6 @@ Cluster,Model,Best Parameters,Metrics,Best Metric Score
 0,SARIMA,"(1, 1, 2, 1, 0, 1, 4)",AIC,48.22213514593856
 1,SARIMA,"(0, 0, 0, 0, 1, 1, 4)",AIC,245.0305215205786
 2,SARIMA,"(2, 0, 2, 0, 1, 1, 4)",AIC,406.12372451536544
+0,ARIMA,,AIC,inf
+1,ARIMA,,AIC,inf
+2,ARIMA,,AIC,inf
