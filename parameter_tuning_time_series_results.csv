@@ -59,3 +59,42 @@ Cluster,Model,Best Parameters,Metrics,Best Metric Score
 0,SARIMA with Diffencing,"(1, 1, 1, 1, 1, 1, 4)",RMSE,0.5138192816089884
 1,SARIMA with Diffencing,"(2, 0, 0, 1, 1, 1, 4)",RMSE,0.1788970374666739
 2,SARIMA with Diffencing,"(1, 1, 2, 1, 1, 1, 4)",RMSE,0.282752735394382
+0,ARIMA With Differencing,"(0, 0, 1)",RMSE,1.1122701725927249
+1,ARIMA With Differencing,"(3, 0, 2)",RMSE,0.2363114877877867
+2,ARIMA With Differencing,"(0, 0, 1)",RMSE,0.4640974650874587
+0,ARIMA With Differencing,"(0, 1, 1)",RMSE,0.9831270965315748
+1,ARIMA With Differencing,"(0, 0, 1)",RMSE,0.2188258817214097
+2,ARIMA With Differencing,"(0, 0, 0)",RMSE,0.4299241697551463
+0,ARIMA With Differencing,"(0, 0, 0)",RMSE,0.9495381554725948
+1,ARIMA With Differencing,"(0, 1, 1)",RMSE,0.2151544208291349
+2,ARIMA With Differencing,"(1, 0, 1)",RMSE,0.3682561540890589
+0,ARIMA With Differencing,"(2, 0, 2)",RMSE,0.4089027738199099
+1,ARIMA With Differencing,"(2, 0, 2)",RMSE,0.163096820866408
+2,ARIMA With Differencing,"(2, 0, 2)",RMSE,0.2695718002290943
+0,ARIMA with Differencing,"(2, 0, 2)",AIC,82.72821180605028
+1,ARIMA with Differencing,"(2, 0, 2)",AIC,-58.93530637213979
+2,ARIMA with Differencing,"(2, 0, 2)",AIC,31.08082338575009
+0,SARIMA With Differencing,"(1, 0, 2, 1, 1, 1, 4)",AIC,73.54659399614783
+1,SARIMA With Differencing,"(2, 0, 2, 1, 1, 1, 4)",AIC,-70.59841109665976
+2,SARIMA With Differencing,"(1, 0, 1, 1, 1, 1, 4)",AIC,28.55075510969033
+0,SARIMA,"(1, 1, 1, 1, 1, 1, 4)",RMSE,0.396438086770108
+1,SARIMA,"(1, 0, 1, 1, 1, 1, 4)",RMSE,0.1578953908893793
+2,SARIMA,"(1, 0, 1, 1, 1, 1, 4)",RMSE,0.2249130586492701
+0,SARIMA,"(2, 2, 2, 1, 1, 1, 4)",RMSE,0.5097886214573913
+1,SARIMA,"(2, 2, 2, 1, 1, 1, 4)",RMSE,0.1778325475150139
+2,SARIMA,"(2, 2, 2, 1, 1, 1, 4)",RMSE,0.2686206113267282
+0,SARIMA With Differencing,"(2, 2, 2, 1, 1, 1, 4)",AIC,80.51607132909743
+1,SARIMA With Differencing,"(2, 2, 2, 1, 1, 1, 4)",AIC,-47.88735198734889
+2,SARIMA With Differencing,"(2, 2, 2, 1, 1, 1, 4)",AIC,36.12697839562872
+0,ARIMA With Differencing,,RMSE,inf
+1,ARIMA With Differencing,,RMSE,inf
+2,ARIMA With Differencing,,RMSE,inf
+0,ARIMA With Differencing,"(2, 0, 2)",RMSE,0.4089027738199099
+1,ARIMA With Differencing,"(2, 0, 2)",RMSE,0.163096820866408
+2,ARIMA With Differencing,"(2, 0, 2)",RMSE,0.2695718002290943
+0,ARIMA with Differencing,"(2, 0, 2)",AIC,82.72821180605028
+1,ARIMA with Differencing,"(2, 0, 2)",AIC,-58.93530637213979
+2,ARIMA with Differencing,"(2, 0, 2)",AIC,31.08082338575009
+0,Holt-Winters,"Best Trend = mul, Best Seasonal = add",RMSE,0.4810477575238824
+1,Holt-Winters,"Best Trend = add, Best Seasonal = add",RMSE,0.1923427617296149
+2,Holt-Winters,"Best Trend = mul, Best Seasonal = add",RMSE,0.28270848834247675
