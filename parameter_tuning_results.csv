@@ -1,0 +1,10 @@
+Cluster,Model,Best Parameters,Metrics,Best Metric Score
+0,Random Forest,"{'bootstrap': False, 'max_depth': 10, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 300}",RMSE,1.7941967000396637
+1,Random Forest,"{'bootstrap': False, 'max_depth': 10, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 300}",RMSE,0.4646024166159966
+2,Random Forest,"{'bootstrap': False, 'max_depth': 10, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 300}",RMSE,0.7353173657694455
+0,Random Forest,"{'max_depth': 10, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 300}",RMSE,1.774140143977617
+1,Random Forest,"{'max_depth': 20, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 200}",RMSE,0.4542355430401299
+2,Random Forest,"{'max_depth': 10, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 200}",RMSE,0.7319256760694219
+0,Random Forest,"{'max_depth': 12, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 300}",RMSE,1.7775929479349457
+1,Random Forest,"{'max_depth': 12, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 350}",RMSE,0.4556212278659128
+2,Random Forest,"{'max_depth': 10, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 300}",RMSE,0.7284037284434596
