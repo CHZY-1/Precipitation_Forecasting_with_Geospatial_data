@@ -29,3 +29,33 @@ Cluster,Model,Best Parameters,Metrics,Best Metric Score
 0,Holt-Winters,"Best Trend = add, Best Seasonal = add",RMSE,1.630482669389424
 1,Holt-Winters,"Best Trend = add, Best Seasonal = add",RMSE,0.4962122579151596
 2,Holt-Winters,"Best Trend = mul, Best Seasonal = mul",RMSE,0.6701930842691216
+0,ARIMA with Diffencing,"(2, 0, 2)",AIC,313.7894278472204
+1,ARIMA with Diffencing,"(2, 0, 2)",AIC,-78.29909951359794
+2,ARIMA with Diffencing,"(2, 0, 2)",AIC,107.47086984212928
+0,ARIMA with Diffencing,"(2, 0, 2)",AIC,313.7894278472204
+1,ARIMA with Diffencing,"(2, 0, 2)",AIC,-78.29909951359794
+2,ARIMA with Diffencing,"(2, 0, 2)",AIC,107.47086984212928
+0,ARIMA,"(0, 0, 1)",RMSE,1.1122701725927249
+1,ARIMA,"(0, 0, 1)",RMSE,0.2381371422769039
+2,ARIMA,"(0, 0, 1)",RMSE,0.4640974650874587
+0,SARIMA with Diffencing,"(1, 1, 1, 1, 0, 1, 4)",AIC,10.0
+1,SARIMA with Diffencing,"(2, 1, 1, 1, 0, 1, 4)",AIC,-84.11456586094288
+2,SARIMA with Diffencing,"(1, 1, 2, 1, 0, 1, 4)",AIC,88.13787000797869
+0,SARIMA with Diffencing,"(1, 1, 1, 1, 0, 1, 4)",AIC,10.0
+1,SARIMA with Diffencing,"(2, 0, 2, 0, 1, 1, 4)",AIC,-95.30497645484446
+2,SARIMA with Diffencing,"(1, 0, 1, 1, 0, 1, 4)",AIC,10.0
+0,SARIMA with Diffencing,"(2, 0, 1, 1, 1, 1, 4)",RMSE,1.4349608126263125
+1,SARIMA with Diffencing,"(2, 1, 1, 1, 1, 1, 4)",RMSE,0.2786408203835826
+2,SARIMA with Diffencing,"(1, 0, 2, 1, 1, 1, 4)",RMSE,0.6162654763536749
+0,SARIMA with Diffencing,"(2, 0, 4, 1, 1, 0, 4)",RMSE,1.419571796340298
+1,SARIMA with Diffencing,"(2, 0, 4, 1, 1, 0, 4)",RMSE,0.2597532187110287
+2,SARIMA with Diffencing,"(2, 0, 3, 1, 1, 0, 4)",RMSE,0.6270282320721394
+0,SARIMA with Diffencing,"(2, 0, 2, 1, 1, 1, 4)",AIC,284.7132959098853
+1,SARIMA with Diffencing,"(2, 0, 2, 2, 1, 1, 4)",AIC,-92.41783127566214
+2,SARIMA with Diffencing,"(1, 0, 0, 1, 1, 1, 4)",AIC,78.17729068766648
+0,SARIMA with Diffencing,"(1, 0, 0, 2, 2, 2, 4)",RMSE,1.159996793171087
+1,SARIMA with Diffencing,"(2, 0, 2, 2, 2, 2, 4)",RMSE,0.2572531956608416
+2,SARIMA with Diffencing,"(1, 0, 0, 2, 2, 2, 4)",RMSE,0.6215859672427858
+0,SARIMA with Diffencing,"(1, 1, 1, 1, 1, 1, 4)",RMSE,0.5138192816089884
+1,SARIMA with Diffencing,"(2, 0, 0, 1, 1, 1, 4)",RMSE,0.1788970374666739
+2,SARIMA with Diffencing,"(1, 1, 2, 1, 1, 1, 4)",RMSE,0.282752735394382

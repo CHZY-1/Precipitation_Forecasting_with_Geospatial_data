@@ -8,3 +8,20 @@ Cluster,Model,Best Parameters,Metrics,Best Metric Score
 0,Random Forest,"{'max_depth': 12, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 300}",RMSE,1.7775929479349457
 1,Random Forest,"{'max_depth': 12, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 350}",RMSE,0.4556212278659128
 2,Random Forest,"{'max_depth': 10, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 300}",RMSE,0.7284037284434596
+ALL,Random Forest,"{'max_depth': 10, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 300}",RMSE,1.074886003621503
+ALL,Random Forest,"{'max_depth': 12, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 280}",RMSE,1.0715825142609272
+ALL,XG Boost,"{'learning_rate': 0.001, 'max_depth': 3, 'n_estimators': 100}",RMSE,2.7018599376915224
+ALL,XG Boost,"{'learning_rate': 0.001, 'max_depth': 2, 'n_estimators': 50}",RMSE,2.827305527337024
+ALL,XG Boost,"{'learning_rate': 0.001, 'max_depth': 1, 'n_estimators': 50}",RMSE,2.857333338411979
+ALL,XG Boost,"{'learning_rate': 0.0001, 'max_depth': 1, 'n_estimators': 10}",RMSE,2.923319386070509
+ALL,XG Boost,"{'learning_rate': 0.001, 'max_depth': 10, 'n_estimators': 10}",RMSE,2.900117062627946
+ALL,XG Boost,"{'learning_rate': 0.3, 'max_depth': 6, 'n_estimators': 100}",RMSE,1.0960332910639503
+ALL,XG Boost,"{'learning_rate': 0.3, 'max_depth': 7, 'n_estimators': 90}",RMSE,1.0984718283058623
+ALL,XG Boost,"{'learning_rate': 0.32, 'max_depth': 8, 'n_estimators': 90}",RMSE,1.0995947743081396
+ALL,XG Boost,"{'learning_rate': 0.35, 'max_depth': 10, 'n_estimators': 85}",RMSE,1.100340465733057
+ALL,XG Boost,"{'learning_rate': 0.35, 'max_depth': 10, 'n_estimators': 85}",RMSE,1.100340465733057
+ALL,XG Boost,"{'learning_rate': 0.35, 'max_depth': 10, 'n_estimators': 85}",RMSE,1.100340465733057
+ALL,XG Boost,"{'learning_rate': 0.31, 'max_depth': 9, 'n_estimators': 85}",RMSE,1.1002521025033598
+ALL,XG Boost,"{'learning_rate': 0.31, 'max_depth': 8, 'n_estimators': 95}",RMSE,1.0996293470679903
+ALL,XG Boost,"{'learning_rate': 0.31, 'max_depth': 8, 'n_estimators': 70}",RMSE,1.0996293557655017
+ALL,XG Boost,"{'learning_rate': 0.31, 'max_depth': 8, 'n_estimators': 60}",RMSE,1.0996293646214723
