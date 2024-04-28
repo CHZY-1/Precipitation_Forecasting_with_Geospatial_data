@@ -25,3 +25,21 @@ ALL,XG Boost,"{'learning_rate': 0.31, 'max_depth': 9, 'n_estimators': 85}",RMSE,
 ALL,XG Boost,"{'learning_rate': 0.31, 'max_depth': 8, 'n_estimators': 95}",RMSE,1.0996293470679903
 ALL,XG Boost,"{'learning_rate': 0.31, 'max_depth': 8, 'n_estimators': 70}",RMSE,1.0996293557655017
 ALL,XG Boost,"{'learning_rate': 0.31, 'max_depth': 8, 'n_estimators': 60}",RMSE,1.0996293646214723
+ALL,XG Boost,"{'learning_rate': 0.31, 'max_depth': 8, 'n_estimators': 80}",RMSE,0.4191546659680393
+ALL,Random Forest,"{'max_depth': 12, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 280}",RMSE,0.2483567051666427
+0,XgBoost,"{'learning_rate': 0.3, 'max_depth': 8, 'n_estimators': 60}",RMSE,0.3212949483956745
+1,XgBoost,"{'learning_rate': 0.29, 'max_depth': 6, 'n_estimators': 60}",RMSE,0.1566112522126141
+2,XgBoost,"{'learning_rate': 0.3, 'max_depth': 6, 'n_estimators': 80}",RMSE,0.2470905683310201
+0,XgBoost,"{'learning_rate': 0.4, 'max_depth': 8, 'n_estimators': 60}",RMSE,0.3214354833016219
+1,XgBoost,"{'learning_rate': 0.4, 'max_depth': 6, 'n_estimators': 80}",RMSE,0.1566794138386317
+2,XgBoost,"{'learning_rate': 0.3, 'max_depth': 6, 'n_estimators': 80}",RMSE,0.2470905683310201
+0,XgBoost,"{'learning_rate': 0.3, 'max_depth': 8, 'n_estimators': 60}",RMSE,0.3212949483956745
+1,XgBoost,"{'learning_rate': 0.2, 'max_depth': 6, 'n_estimators': 60}",RMSE,0.1566101258556404
+2,XgBoost,"{'learning_rate': 0.5, 'max_depth': 8, 'n_estimators': 80}",RMSE,0.247226806380588
+0,XgBoost,"{'learning_rate': 0.4, 'max_depth': 8, 'n_estimators': 60}",RMSE,0.3214354833016219
+1,XgBoost,"{'learning_rate': 0.4, 'max_depth': 6, 'n_estimators': 80}",RMSE,0.1566794138386317
+2,XgBoost,"{'learning_rate': 0.3, 'max_depth': 6, 'n_estimators': 80}",RMSE,0.2470905683310201
+0,XgBoost,"{'learning_rate': 0.4, 'max_depth': 8, 'n_estimators': 60}",RMSE,0.3214354833016219
+1,XgBoost,"{'learning_rate': 0.4, 'max_depth': 6, 'n_estimators': 80}",RMSE,0.1566794138386317
+2,XgBoost,"{'learning_rate': 0.5, 'max_depth': 8, 'n_estimators': 80}",RMSE,0.247226806380588
+0,XgBoost,"{'colsample_bytree': 1.0, 'gamma': 0, 'learning_rate': 0.5, 'max_depth': 7, 'min_child_weight': 1, 'n_estimators': 80, 'reg_alpha': 0, 'reg_lambda': 0.9, 'subsample': 0.7}",RMSE,0.3336666280911389
