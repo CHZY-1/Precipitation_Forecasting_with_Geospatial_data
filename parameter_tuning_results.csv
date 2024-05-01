@@ -65,4 +65,19 @@ ALL,Random Forest,"{'max_depth': 10, 'min_samples_leaf': 4, 'min_samples_split':
 ALL,Random Forest,"{'max_depth': 8, 'min_samples_leaf': 3, 'min_samples_split': 4, 'n_estimators': 50}",RMSE,0.2482383157275926
 ALL,XGBoost,"{'learning_rate': 0.5, 'max_depth': 8, 'n_estimators': 60}",RMSE,0.2480591156070898
 ALL,Random Forest,"{'max_depth': 8, 'min_samples_leaf': 2, 'min_samples_split': 4, 'n_estimators': 50}",RMSE,0.2472585549019569
-ALL,XGBoost,"{'learning_rate': 0.5, 'max_depth': 8, 'n_estimators': 60}",RMSE,0.24805911560708985
+ALL,XGBoost,"{'learning_rate': 0.5, 'max_depth': 8, 'n_estimators': 60}",RMSE,0.2480591156070898
+ALL,Random Forest,"{'max_depth': 8, 'min_samples_leaf': 3, 'min_samples_split': 6, 'n_estimators': 50}",RMSE,0.0007417105696939
+ALL,XGBoost,"{'learning_rate': 0.5, 'max_depth': 6, 'n_estimators': 60}",RMSE,0.000721943537897
+ALL,Random Forest,"{'max_depth': 8, 'min_samples_leaf': 2, 'min_samples_split': 6, 'n_estimators': 50}",RMSE,0.2482435973735407
+ALL,XGBoost,"{'learning_rate': 0.5, 'max_depth': 8, 'n_estimators': 60}",RMSE,0.2480591156070898
+ALL,Random Forest,"{'max_depth': 8, 'min_samples_leaf': 2, 'min_samples_split': 6, 'n_estimators': 50}",RMSE,0.2470843721328998
+ALL,XGBoost,"{'learning_rate': 0.5, 'max_depth': 8, 'n_estimators': 60}",RMSE,0.2480591156070898
+ALL,Random Forest,"{'max_depth': 8, 'min_samples_leaf': 2, 'min_samples_split': 8, 'n_estimators': 50}",RMSE,0.2482985968046892
+ALL,XGBoost,"{'learning_rate': 0.5, 'max_depth': 8, 'n_estimators': 60}",RMSE,0.2480591156070898
+ALL,Random Forest,"{'max_depth': 8, 'min_samples_leaf': 2, 'min_samples_split': 8, 'n_estimators': 50}",RMSE,0.2481557599830919
+ALL,XGBoost,"{'learning_rate': 0.5, 'max_depth': 8, 'n_estimators': 60}",RMSE,0.2480591156070898
+ALL,XGBoost,"{'learning_rate': 0.5, 'max_depth': 8, 'n_estimators': 60}",RMSE,0.2480591156070898
+ALL,Random Forest,"{'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 6, 'n_estimators': 100}",RMSE,1.1224556106313586
+ALL,XGBoost,"{'learning_rate': 0.2, 'max_depth': 7, 'n_estimators': 60}",RMSE,1.127983518748785
+ALL,Random Forest,"{'max_depth': 8, 'min_samples_leaf': 2, 'min_samples_split': 8, 'n_estimators': 100}",RMSE,1.1245077370897718
+ALL,XGBoost,"{'learning_rate': 0.2, 'max_depth': 7, 'n_estimators': 60}",RMSE,1.127983518748785

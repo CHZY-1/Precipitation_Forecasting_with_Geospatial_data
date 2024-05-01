@@ -128,3 +128,129 @@ Cluster,Model,Best Parameters,Metrics,Best Metric Score
 0,Holt-Winters,"Best Trend = mul, Best Seasonal = mul",RMSE,0.2982057376593545
 1,Holt-Winters,"Best Trend = mul, Best Seasonal = mul",RMSE,0.1653285241857128
 2,Holt-Winters,"Best Trend = add, Best Seasonal = mul",RMSE,0.251392899500116
+0,SARIMA With Differencing,"(2, 2, 2, 1, 1, 1, 4)",AIC,52.52097328704639
+1,SARIMA With Differencing,"(2, 2, 2, 1, 1, 1, 4)",AIC,-94.85341850076615
+2,SARIMA With Differencing,"(2, 2, 2, 1, 1, 1, 4)",AIC,23.283444832829275
+0,SARIMA With Differencing,"(2, 2, 2, 1, 1, 1, 4)",AIC,52.52097328704639
+1,SARIMA With Differencing,"(2, 2, 2, 1, 1, 1, 4)",AIC,-94.85341850076615
+2,SARIMA With Differencing,"(2, 2, 2, 1, 1, 1, 4)",AIC,23.283444832829275
+0,SARIMA With Diffencing,"(2, 2, 2, 1, 1, 1, 4)",RMSE,0.2949931775152535
+1,SARIMA With Diffencing,"(2, 2, 2, 1, 1, 1, 4)",RMSE,0.155891578649269
+2,SARIMA With Diffencing,"(2, 2, 2, 1, 1, 1, 4)",RMSE,0.2404085095545843
+0,ARIMA with Differencing,"(0, 0, 1)",AIC,-1954.404416690006
+1,ARIMA with Differencing,"(0, 0, 2)",AIC,-2005.53388165638
+2,ARIMA with Differencing,"(0, 0, 2)",AIC,-1826.004901526181
+0,ARIMA With Differencing,"(2, 0, 2)",RMSE,0.0001691166707619
+1,ARIMA With Differencing,"(2, 0, 1)",RMSE,0.000194788888351
+2,ARIMA With Differencing,"(1, 0, 0)",RMSE,0.0003849204802348
+0,SARIMA With Differencing,"(2, 2, 2, 1, 1, 1, 4)",AIC,-1769.7564056968756
+1,SARIMA With Differencing,"(2, 2, 2, 1, 1, 1, 4)",AIC,-1767.357070084454
+2,SARIMA With Differencing,"(2, 2, 2, 1, 1, 1, 4)",AIC,-1610.5613553669975
+0,SARIMA With Diffencing,"(2, 2, 2, 1, 1, 1, 4)",RMSE,0.0007315888330105
+1,SARIMA With Diffencing,"(2, 2, 2, 1, 1, 1, 4)",RMSE,0.0016696235925402
+2,SARIMA With Diffencing,"(2, 2, 2, 1, 1, 1, 4)",RMSE,0.0015970616091106
+0,ARIMA with Differencing,"(2, 0, 2)",AIC,49.37538583394704
+1,ARIMA with Differencing,"(2, 0, 2)",AIC,-101.240611295593
+2,ARIMA with Differencing,"(2, 0, 2)",AIC,23.797531624055665
+0,ARIMA With Differencing,"(2, 0, 2)",RMSE,0.2598023065301911
+1,ARIMA With Differencing,"(2, 0, 2)",RMSE,0.1646109160104818
+2,ARIMA With Differencing,"(2, 0, 2)",RMSE,0.2006446570057052
+0,SARIMA With Differencing,"(2, 2, 2, 1, 1, 1, 4)",AIC,52.52097328704639
+1,SARIMA With Differencing,"(2, 2, 2, 1, 1, 1, 4)",AIC,-94.85341850076615
+2,SARIMA With Differencing,"(2, 2, 2, 1, 1, 1, 4)",AIC,23.283444832829275
+0,SARIMA With Diffencing,"(2, 2, 2, 1, 1, 1, 4)",RMSE,0.2949931775152535
+1,SARIMA With Diffencing,"(2, 2, 2, 1, 1, 1, 4)",RMSE,0.155891578649269
+2,SARIMA With Diffencing,"(2, 2, 2, 1, 1, 1, 4)",RMSE,0.2404085095545843
+0,Holt-Winters,"Best Trend = mul, Best Seasonal = mul",RMSE,0.2982057376593545
+1,Holt-Winters,"Best Trend = mul, Best Seasonal = mul",RMSE,0.1653285241857128
+2,Holt-Winters,"Best Trend = add, Best Seasonal = mul",RMSE,0.251392899500116
+0,ARIMA with Differencing,"(2, 0, 2)",AIC,49.37538583394704
+1,ARIMA with Differencing,"(2, 0, 2)",AIC,-101.240611295593
+2,ARIMA with Differencing,"(2, 0, 2)",AIC,23.797531624055665
+0,ARIMA With Differencing,"(2, 0, 2)",RMSE,0.2598023065301911
+1,ARIMA With Differencing,"(2, 0, 2)",RMSE,0.1646109160104818
+2,ARIMA With Differencing,"(2, 0, 2)",RMSE,0.2006446570057052
+0,SARIMA With Differencing,"(2, 2, 2, 1, 1, 1, 4)",AIC,52.52097328704639
+1,SARIMA With Differencing,"(2, 2, 2, 1, 1, 1, 4)",AIC,-94.85341850076615
+2,SARIMA With Differencing,"(2, 2, 2, 1, 1, 1, 4)",AIC,23.283444832829275
+0,SARIMA With Diffencing,"(2, 2, 2, 1, 1, 1, 4)",RMSE,0.2949931775152535
+1,SARIMA With Diffencing,"(2, 2, 2, 1, 1, 1, 4)",RMSE,0.155891578649269
+2,SARIMA With Diffencing,"(2, 2, 2, 1, 1, 1, 4)",RMSE,0.2404085095545843
+0,Holt-Winters,"Best Trend = mul, Best Seasonal = mul",RMSE,0.2982057376593545
+1,Holt-Winters,"Best Trend = mul, Best Seasonal = mul",RMSE,0.1653285241857128
+2,Holt-Winters,"Best Trend = add, Best Seasonal = mul",RMSE,0.251392899500116
+0,ARIMA with Differencing,"(2, 0, 2)",AIC,49.37538583394704
+1,ARIMA with Differencing,"(2, 0, 2)",AIC,-101.240611295593
+2,ARIMA with Differencing,"(2, 0, 2)",AIC,23.797531624055665
+0,ARIMA With Differencing,"(2, 0, 2)",RMSE,0.2598023065301911
+1,ARIMA With Differencing,"(2, 0, 2)",RMSE,0.1646109160104818
+2,ARIMA With Differencing,"(2, 0, 2)",RMSE,0.2006446570057052
+0,SARIMA With Differencing,"(2, 2, 2, 1, 1, 1, 4)",AIC,52.52097328704639
+1,SARIMA With Differencing,"(2, 2, 2, 1, 1, 1, 4)",AIC,-94.85341850076615
+2,SARIMA With Differencing,"(2, 2, 2, 1, 1, 1, 4)",AIC,23.283444832829275
+0,SARIMA With Diffencing,"(2, 2, 2, 1, 1, 1, 4)",RMSE,0.2949931775152535
+1,SARIMA With Diffencing,"(2, 2, 2, 1, 1, 1, 4)",RMSE,0.155891578649269
+2,SARIMA With Diffencing,"(2, 2, 2, 1, 1, 1, 4)",RMSE,0.2404085095545843
+0,Holt-Winters,"Best Trend = mul, Best Seasonal = mul",RMSE,0.2982057376593545
+1,Holt-Winters,"Best Trend = mul, Best Seasonal = mul",RMSE,0.1653285241857128
+2,Holt-Winters,"Best Trend = add, Best Seasonal = mul",RMSE,0.251392899500116
+0,ARIMA with Differencing,"(2, 0, 2)",AIC,49.37538583394704
+1,ARIMA with Differencing,"(2, 0, 2)",AIC,-101.240611295593
+2,ARIMA with Differencing,"(2, 0, 2)",AIC,23.797531624055665
+0,ARIMA With Differencing,"(2, 0, 2)",RMSE,0.2598023065301911
+1,ARIMA With Differencing,"(2, 0, 2)",RMSE,0.1646109160104818
+2,ARIMA With Differencing,"(2, 0, 2)",RMSE,0.2006446570057052
+0,SARIMA With Differencing,"(2, 2, 2, 1, 1, 1, 4)",AIC,52.52097328704639
+1,SARIMA With Differencing,"(2, 2, 2, 1, 1, 1, 4)",AIC,-94.85341850076615
+2,SARIMA With Differencing,"(2, 2, 2, 1, 1, 1, 4)",AIC,23.283444832829275
+0,SARIMA With Diffencing,"(2, 2, 2, 1, 1, 1, 4)",RMSE,0.2949931775152535
+1,SARIMA With Diffencing,"(2, 2, 2, 1, 1, 1, 4)",RMSE,0.155891578649269
+2,SARIMA With Diffencing,"(2, 2, 2, 1, 1, 1, 4)",RMSE,0.2404085095545843
+0,Holt-Winters,"Best Trend = mul, Best Seasonal = mul",RMSE,0.2982057376593545
+1,Holt-Winters,"Best Trend = mul, Best Seasonal = mul",RMSE,0.1653285241857128
+2,Holt-Winters,"Best Trend = add, Best Seasonal = mul",RMSE,0.251392899500116
+0,ARIMA with Differencing,"(2, 0, 2)",AIC,49.37538583394704
+1,ARIMA with Differencing,"(2, 0, 2)",AIC,-101.240611295593
+2,ARIMA with Differencing,"(2, 0, 2)",AIC,23.797531624055665
+0,ARIMA With Differencing,"(2, 0, 2)",RMSE,0.2598023065301911
+1,ARIMA With Differencing,"(2, 0, 2)",RMSE,0.1646109160104818
+2,ARIMA With Differencing,"(2, 0, 2)",RMSE,0.2006446570057052
+0,SARIMA With Differencing,"(2, 2, 2, 1, 1, 1, 4)",AIC,52.52097328704639
+1,SARIMA With Differencing,"(2, 2, 2, 1, 1, 1, 4)",AIC,-94.85341850076615
+2,SARIMA With Differencing,"(2, 2, 2, 1, 1, 1, 4)",AIC,23.283444832829275
+0,SARIMA With Diffencing,"(2, 2, 2, 1, 1, 1, 4)",RMSE,0.2949931775152535
+1,SARIMA With Diffencing,"(2, 2, 2, 1, 1, 1, 4)",RMSE,0.155891578649269
+2,SARIMA With Diffencing,"(2, 2, 2, 1, 1, 1, 4)",RMSE,0.2404085095545843
+0,Holt-Winters,"Best Trend = mul, Best Seasonal = mul",RMSE,0.2982057376593545
+1,Holt-Winters,"Best Trend = mul, Best Seasonal = mul",RMSE,0.1653285241857128
+2,Holt-Winters,"Best Trend = add, Best Seasonal = mul",RMSE,0.251392899500116
+0,ARIMA with Differencing,"(2, 0, 2)",AIC,168.6777430180355
+1,ARIMA with Differencing,"(1, 0, 1)",AIC,65.45869275294588
+2,ARIMA with Differencing,"(2, 0, 2)",AIC,104.47177991242192
+0,ARIMA With Differencing,"(2, 0, 2)",RMSE,1.4725029583981248
+1,ARIMA With Differencing,"(2, 0, 2)",RMSE,0.4651797635575477
+2,ARIMA With Differencing,"(2, 0, 2)",RMSE,0.6545402178029653
+0,SARIMA With Differencing,"(2, 2, 2, 1, 1, 1, 4)",AIC,155.80289995111644
+1,SARIMA With Differencing,"(2, 2, 2, 1, 1, 1, 4)",AIC,60.72995405909276
+2,SARIMA With Differencing,"(2, 2, 2, 1, 1, 1, 4)",AIC,99.90012954424256
+0,SARIMA With Diffencing,"(2, 2, 2, 1, 1, 1, 4)",RMSE,1.5084543737297684
+1,SARIMA With Diffencing,"(2, 2, 2, 1, 1, 1, 4)",RMSE,0.4625628479892594
+2,SARIMA With Diffencing,"(2, 2, 2, 1, 1, 1, 4)",RMSE,0.6345275430396745
+0,Holt-Winters,"Best Trend = add, Best Seasonal = mul",RMSE,1.6393348370644922
+1,Holt-Winters,"Best Trend = mul, Best Seasonal = mul",RMSE,0.4850562963580278
+2,Holt-Winters,"Best Trend = mul, Best Seasonal = mul",RMSE,0.695661135486543
+0,ARIMA with Differencing,"(2, 0, 2)",AIC,168.6777430180355
+1,ARIMA with Differencing,"(1, 0, 1)",AIC,65.45869275294588
+2,ARIMA with Differencing,"(2, 0, 2)",AIC,104.47177991242192
+0,ARIMA With Differencing,"(2, 0, 2)",RMSE,1.4725029583981248
+1,ARIMA With Differencing,"(2, 0, 2)",RMSE,0.4651797635575477
+2,ARIMA With Differencing,"(2, 0, 2)",RMSE,0.6545402178029653
+0,SARIMA With Differencing,"(2, 2, 2, 1, 1, 1, 4)",AIC,155.80289995111644
+1,SARIMA With Differencing,"(2, 2, 2, 1, 1, 1, 4)",AIC,60.72995405909276
+2,SARIMA With Differencing,"(2, 2, 2, 1, 1, 1, 4)",AIC,99.90012954424256
+0,SARIMA With Diffencing,"(2, 2, 2, 1, 1, 1, 4)",RMSE,1.5084543737297684
+1,SARIMA With Diffencing,"(2, 2, 2, 1, 1, 1, 4)",RMSE,0.4625628479892594
+2,SARIMA With Diffencing,"(2, 2, 2, 1, 1, 1, 4)",RMSE,0.6345275430396745
+0,Holt-Winters,"Best Trend = add, Best Seasonal = mul",RMSE,1.6393348370644922
+1,Holt-Winters,"Best Trend = mul, Best Seasonal = mul",RMSE,0.4850562963580278
+2,Holt-Winters,"Best Trend = mul, Best Seasonal = mul",RMSE,0.695661135486543
