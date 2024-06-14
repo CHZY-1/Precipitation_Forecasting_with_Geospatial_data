@@ -16,7 +16,7 @@ The dataset is "50" km resolution daily precipitation for the Pacific Northwest,
 Data Preprocessing workflow
 ![Data Preprocessing workflow](image-4.png)
 
-272 locations with 17 latitude and 16 longitude into 3 clusters with k means clustering
+To reduce the dimension of data, a total of 272 locations with 17 latitude and 16 longitude in pacific northwest are clustered into 3 clusters with k means clustering algorithm.
 
 ![clustered](image-1.png)
 
